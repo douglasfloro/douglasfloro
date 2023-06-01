@@ -22,8 +22,6 @@ const user: UserType = {
         'Enterprising',
         'Front-end Developer (JavaScript - ReactJS) / CSS / HTML',
         'NextJS / Tailwind / Styled-Components / ...',
-        'Designer (Figma/ProCreate)',
-        'Adobe Ps, Ae, Pr',
       ],
       softSkills: [
         'Self-taught',
