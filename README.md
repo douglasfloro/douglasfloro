@@ -13,7 +13,7 @@ Follow me 😋
 
 const user: UserType = {
   name: 'Douglas Floro',
-  age: 27,
+  age: 29,
   job: [
     {
       hardSkills: [
